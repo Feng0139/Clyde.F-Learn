@@ -1,5 +1,5 @@
 # 考核项目
-## 接入 Autofac
+## 接入 AutoFac
 1. 将 `WebApplication` 更改为 `Host` 通用主机。
 ```csharp
 public static void Main(string[] args)  
